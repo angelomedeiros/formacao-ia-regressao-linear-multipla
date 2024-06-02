@@ -12,6 +12,7 @@ seaborn = "*"
 ipykernel = "*"
 gradio = "*"
 pingouin = "*"
+statsmodels = "*"
 
 [dev-packages]
 
